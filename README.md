@@ -40,6 +40,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to start c
 - [AI SDK Documentation](https://sdk.vercel.ai/docs)
 - [shadcn/ui Components](https://ui.shadcn.com/)
 
-## Deploy on Vercel
+## Vercel Deployment
 
-Deploy your app easily using [Vercel](https://vercel.com/new).
+https://vercel.com/aryyanahlawat-7914s-projects/chat_bot_0.1/gBjYquEe7jc1KTgWBqBkEdQDVoWF
