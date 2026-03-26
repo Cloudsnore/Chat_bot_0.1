@@ -42,4 +42,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to start c
 
 ## Vercel Deployment
 
-https://vercel.com/aryyanahlawat-7914s-projects/chat_bot_0.1/gBjYquEe7jc1KTgWBqBkEdQDVoWF
+https://chatbot01-seven-psi.vercel.app/
